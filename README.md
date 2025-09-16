@@ -1,7 +1,7 @@
 # ExcelIA_-SaraSofiaRodriguezMoya-
-Tema elegido
-Un análisis de ventas mensuales de café en Colombia durante el año 2024.
-Fuente de datos
+Tema elegido: Un análisis de ventas mensuales de café en Colombia durante el año 2024.
+
+Fuente de datos:
 Se utilizó una tabla ficticia de 40 registros con la siguiente información:
 Fecha
 Número de factura
