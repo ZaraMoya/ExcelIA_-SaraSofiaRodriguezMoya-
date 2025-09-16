@@ -1,4 +1,9 @@
 # ExcelIA_-SaraSofiaRodriguezMoya-
+*Archivo Excel  que se utilizo:*
+[[Proyecto Final Domina Excel con IA.xlsx](https://github.com/user-attachments/files/22353549/Proyecto.Final.Domina.Excel.con.IA.xlsx)]
+
+*Video de todo el proceso:¨*
+
 *Tema elegido:*
 Un análisis de ventas mensuales de café en Colombia durante el año 2024.
 
