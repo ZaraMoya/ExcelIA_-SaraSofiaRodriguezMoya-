@@ -3,6 +3,7 @@
 [[Proyecto Final Domina Excel con IA.xlsx](https://github.com/user-attachments/files/22353549/Proyecto.Final.Domina.Excel.con.IA.xlsx)]
 *Video de todo el proceso donde se muestra el archivo, la utilizacion de IA y las conclusiones:¨*
 [https://www.loom.com/share/f85a3f6a622844b99d0385bf875ace16?sid=afd4d29c-98da-4da3-a263-5a4dc018a488]
+
 *Tema elegido:*
 Un análisis de ventas mensuales de café en Colombia durante el año 2024.
 
